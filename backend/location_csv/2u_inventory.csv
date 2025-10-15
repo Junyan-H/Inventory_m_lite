@@ -1,0 +1,11 @@
+item_id,item_name,category,restock_date,purchase_price,item_cnt,total_amount,location,condition,status,assigned_to,last_audit_date,notes,image_url
+36,Server Rack,infrastructure,2024-02-10,2500.00,4,10000.00,2u,good,In use,IT,2024-11-08,,http://example.com/serverrack.jpg
+37,Network Switch,networking,2024-07-15,800.00,6,4800.00,2u,good,In use,IT,2024-11-10,Fiber optic,http://example.com/switch.jpg
+38,UPS Battery Backup,power,2024-03-25,450.00,8,3600.00,2u,good,In use,IT,2024-11-05,Test monthly,http://example.com/ups.jpg
+39,Cat6 Cable 100ft,networking,2024-09-05,50.00,20,1000.00,2u,new,Storage,,2024-11-12,,http://example.com/cable.jpg
+40,Cable Tester,tools,2024-06-18,120.00,3,360.00,2u,good,Assigned,Chris,2024-10-30,,http://example.com/tester.jpg
+41,Patch Panel,networking,2024-08-10,200.00,5,1000.00,2u,good,In use,IT,2024-11-07,,http://example.com/patchpanel.jpg
+42,KVM Switch,equipment,2024-05-22,350.00,3,1050.00,2u,good,In use,IT,2024-11-01,,http://example.com/kvm.jpg
+43,Fiber Optic Cable,networking,2024-10-20,100.00,15,1500.00,2u,new,Storage,,2024-11-12,LC connectors,http://example.com/fiber.jpg
+44,Server,hardware,2024-04-05,3500.00,6,21000.00,2u,good,In use,IT,2024-11-09,Dell PowerEdge,http://example.com/server.jpg
+45,Rack PDU,power,2024-07-28,280.00,8,2240.00,2u,good,In use,IT,2024-11-06,,http://example.com/pdu.jpg

@@ -1,0 +1,16 @@
+item_id,item_name,category,restock_date,purchase_price,item_cnt,total_amount,location,condition,status,assigned_to,last_audit_date,notes,image_url
+1,Backpack,tools,2024-11-12,45.00,12,540.00,san_jose,good,In use,Jun,2024-11-12,Need new order,http://example.com/backpack.jpg
+2,Ladder 6ft,equipment,2024-10-15,120.00,5,600.00,san_jose,good,Storage,,2024-11-10,,http://example.com/ladder.jpg
+3,Safety Goggles,safety,2024-09-20,15.00,25,375.00,san_jose,new,Storage,,2024-11-12,Bulk order received,http://example.com/goggles.jpg
+4,Drill Set,tools,2024-08-05,250.00,3,750.00,san_jose,good,Assigned,Sarah,2024-11-01,,http://example.com/drill.jpg
+5,First Aid Kit,safety,2024-07-18,35.00,10,350.00,san_jose,good,In use,Mike,2024-10-28,Check expiration dates,http://example.com/firstaid.jpg
+6,Hardhat,safety,2024-11-01,25.00,20,500.00,san_jose,new,Storage,,2024-11-12,,http://example.com/hardhat.jpg
+7,Tool Belt,tools,2024-06-10,40.00,8,320.00,san_jose,fair,In use,Jun,2024-10-15,Some wear and tear,http://example.com/toolbelt.jpg
+8,Measuring Tape,tools,2024-09-12,12.00,15,180.00,san_jose,good,Storage,,2024-11-05,,http://example.com/tape.jpg
+9,Work Gloves,safety,2024-10-22,8.00,50,400.00,san_jose,new,In use,Team,2024-11-12,High usage item,http://example.com/gloves.jpg
+10,Toolbox,storage,2024-05-30,65.00,6,390.00,san_jose,good,Assigned,Alex,2024-10-20,,http://example.com/toolbox.jpg
+11,Extension Cord 50ft,electrical,2024-08-15,30.00,10,300.00,san_jose,good,Storage,,2024-11-08,,http://example.com/cord.jpg
+12,Level,tools,2024-07-25,35.00,7,245.00,san_jose,good,In use,Jun,2024-10-30,,http://example.com/level.jpg
+13,Flashlight,tools,2024-09-05,18.00,12,216.00,san_jose,fair,In use,Various,2024-11-01,Batteries needed,http://example.com/flashlight.jpg
+14,Safety Vest,safety,2024-10-10,22.00,30,660.00,san_jose,new,Storage,,2024-11-12,New shipment,http://example.com/vest.jpg
+15,Hammer,tools,2024-06-20,28.00,10,280.00,san_jose,broken,Storage,,2024-10-25,Need replacement,http://example.com/hammer.jpg

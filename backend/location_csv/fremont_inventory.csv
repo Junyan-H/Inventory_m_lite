@@ -1,0 +1,11 @@
+item_id,item_name,category,restock_date,purchase_price,item_cnt,total_amount,location,condition,status,assigned_to,last_audit_date,notes,image_url
+16,Laptop Dell,electronics,2024-10-01,850.00,8,6800.00,fremont,good,Assigned,Emily,2024-11-10,,http://example.com/laptop.jpg
+17,Monitor 24inch,electronics,2024-09-15,200.00,15,3000.00,fremont,good,In use,Various,2024-11-08,Office equipment,http://example.com/monitor.jpg
+18,Desk Chair,furniture,2024-08-20,180.00,12,2160.00,fremont,fair,In use,Office,2024-10-25,Some need repair,http://example.com/chair.jpg
+19,Standing Desk,furniture,2024-07-10,450.00,6,2700.00,fremont,new,Assigned,David,2024-11-05,,http://example.com/desk.jpg
+20,Wireless Mouse,electronics,2024-10-25,25.00,30,750.00,fremont,new,Storage,,2024-11-12,New stock,http://example.com/mouse.jpg
+21,Keyboard,electronics,2024-10-25,45.00,30,1350.00,fremont,new,Storage,,2024-11-12,New stock,http://example.com/keyboard.jpg
+22,Cable Organizer,accessories,2024-06-15,10.00,20,200.00,fremont,good,In use,Office,2024-10-20,,http://example.com/organizer.jpg
+23,Whiteboard,office,2024-05-30,120.00,4,480.00,fremont,good,In use,Conference,2024-11-01,,http://example.com/whiteboard.jpg
+24,Projector,electronics,2024-03-20,650.00,2,1300.00,fremont,good,In use,Conference,2024-10-15,Lamp hours low,http://example.com/projector.jpg
+25,USB Hub,electronics,2024-09-08,30.00,15,450.00,fremont,good,Storage,,2024-11-07,,http://example.com/usbhub.jpg

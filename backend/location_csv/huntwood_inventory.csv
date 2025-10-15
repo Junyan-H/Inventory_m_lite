@@ -1,0 +1,11 @@
+item_id,item_name,category,restock_date,purchase_price,item_cnt,total_amount,location,condition,status,assigned_to,last_audit_date,notes,image_url
+26,Forklift,heavy_equipment,2024-01-15,15000.00,2,30000.00,huntwood,good,In use,Warehouse,2024-11-05,Annual maintenance due,http://example.com/forklift.jpg
+27,Pallet Jack,equipment,2024-06-20,800.00,5,4000.00,huntwood,good,In use,Warehouse,2024-11-10,,http://example.com/palletjack.jpg
+28,Safety Cones,safety,2024-09-10,12.00,40,480.00,huntwood,good,Storage,,2024-11-12,,http://example.com/cones.jpg
+29,Loading Ramp,equipment,2024-04-15,1200.00,3,3600.00,huntwood,fair,In use,Loading,2024-10-28,Rust spots forming,http://example.com/ramp.jpg
+30,Barcode Scanner,electronics,2024-08-25,150.00,10,1500.00,huntwood,good,Assigned,Various,2024-11-08,,http://example.com/scanner.jpg
+31,Shipping Labels,supplies,2024-11-01,0.10,5000,500.00,huntwood,new,Storage,,2024-11-12,Restock monthly,http://example.com/labels.jpg
+32,Bubble Wrap Roll,supplies,2024-10-15,25.00,30,750.00,huntwood,new,Storage,,2024-11-10,,http://example.com/bubblewrap.jpg
+33,Hand Truck,equipment,2024-07-05,120.00,8,960.00,huntwood,good,In use,Warehouse,2024-11-01,,http://example.com/handtruck.jpg
+34,Industrial Fan,equipment,2024-05-20,200.00,6,1200.00,huntwood,good,In use,Warehouse,2024-10-25,Summer essential,http://example.com/fan.jpg
+35,Scale Digital,equipment,2024-09-30,300.00,4,1200.00,huntwood,good,In use,Shipping,2024-11-09,,http://example.com/scale.jpg
